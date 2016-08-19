@@ -1,0 +1,15 @@
+cask android-studio
+cask appcleaner
+cask atom
+cask clipmenu
+cask evernote
+cask google-chrome
+cask google-japanese-ime
+cask java
+cask magican
+cask mysqlworkbench
+cask osxfuse
+cask phpstorm
+cask sequel-pro
+cask slack
+cask sshfs
