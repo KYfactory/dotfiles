@@ -1,4 +1,4 @@
-# ---------- 文字色設定 ----------
+# ---------- 文字色 ----------
 local COLOR_FG_LIGHTBLUE="%{[38;5;081m%}"
 local COLOR_FG_BLUE="%{[38;5;033m%}"
 local COLOR_FG_DEEPGREEN="%{[38;5;034m%}"
@@ -7,11 +7,10 @@ local COLOR_FG_ORANGE="%{[38;5;214m%}"
 local COLOR_FG_PINK="%{[38;5;200m%}"
 local COLOR_FG_RED="%{[38;5;196m%}"
 
-# ---------- 背景色設定 ----------
+# ---------- 背景色 ----------
 local COLOR_BG_GREEN="%{[30;48;5;082m%}"
 local COLOR_END="%{[0m%}"
 
-# ---------- その他の表示 ----------
 GIT_PROMPT_DIRTY="${COLOR_FG_RED}✘✘✘"
 GIT_PROMPT_CLEAN="${COLOR_FG_GREEN}✔"
 

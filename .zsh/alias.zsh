@@ -6,7 +6,7 @@ alias cp='cp -i'
 alias mv='mv -i'
 
 
-### git
+# ---------- git ----------
 alias gst='git status'
 alias gd='git diff'
 
